@@ -11,7 +11,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.12</version>
+            <version>4.13.1</version>
         </dependency>
     </dependencies>
 
@@ -57,7 +57,7 @@
         <dep.poi-ooxml.version>3.15</dep.poi-ooxml.version>
         <dep.jxls-core.version>1.0.5</dep.jxls-core.version>
         <dep.javax.mail.version>1.5.2</dep.javax.mail.version>
-        <dep.junit.version>4.12</dep.junit.version>
+        <dep.junit.version>4.13.1</dep.junit.version>
         <dep.druid.version>1.0.15</dep.druid.version>
         <dep.hessian.version>4.0.38</dep.hessian.version>
         <dep.powermock-module-junit4.version>1.6.5</dep.powermock-module-junit4.version>
